@@ -1,4 +1,3 @@
-<img width="1824" height="1546" alt="Screenshot 2025-09-29 143818" src="https://github.com/user-attachments/assets/8141c16d-c8ac-43f3-8d4c-6a087a3188c6" /># Norm of a matrix
 ## Aim
 To write a program to find the 1-norm, 2-norm and infinity norm of the matrix and display the result in two decimal places.
 ## Equipment’s required:
